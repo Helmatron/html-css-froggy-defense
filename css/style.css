@@ -1,0 +1,23 @@
+/* reset */
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+/* header */
+.title {
+    text-align: center;
+    font-family: sans-serif;
+    margin-bottom: 50px;
+}
+
+/* main */
+
+img {
+    max-width: 300px;
+}
+
+.conteiner {
+    display: flex;
+    justify-content: center;
+}
